@@ -1,8 +1,7 @@
 # [Codecov][0] Java Example
 
-[![Build Status](https://travis-ci.org/codecov/example-java.svg?branch=master)](https://travis-ci.org/codecov/example-java)
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcodecov%2Fexample-java.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcodecov%2Fexample-java?ref=badge_shield)
-
+[![Build Status](https://travis-ci.com/gkarpov-de/travis-codecov-test.svg?branch=master)](https://travis-ci.com/gkarpov-de/travis-codecov-test)
+[![codecov](https://codecov.io/gh/gkarpov-de/travis-codecov-test/branch/master/graph/badge.svg?token=90HAFBHB2E)](https://codecov.io/gh/gkarpov-de/travis-codecov-test)
 ## Guide
 
 ### Travis Setup
